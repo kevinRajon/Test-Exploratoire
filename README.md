@@ -52,8 +52,7 @@ Participants : RAJON Kevin
  - Qu’est-ce qu’il reste à faire ?<br/>
    ▪ Explorer la différence des différents types de parking et la formule de calcul de prix ?<br/>
 
-
- - Quels sont vos sentiments ?<br/>
+![](shino.png)
    ▪ L’application n’est pas sécurisée pour faire le paiement.
 Interface viellissante.
 
