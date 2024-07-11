@@ -1,10 +1,10 @@
-Déroulement de la session de test exploratoire 
+#Déroulement de la session de test exploratoire 
 Participants : RAJON Kevin
 
 
-Objectif de test : Définir votre mission
-Tester la réservation d’un parking en ligne
-https://www.shino.de/parkcalc/index.php
+##Objectif de test : Définir votre mission
+ - Tester la réservation d’un parking en ligne
+ - https://www.shino.de/parkcalc/index.php
 
 Charte à tester
 <Explorer> la fonctionnalité de réservation de parking 
