@@ -1,5 +1,4 @@
-Cette session de test a été realisée dans le cadre d'une formation LinkedIN Learning<br/>
-[Test logiciels et assurance qualité](https://www.linkedin.com/learning-login/share?account=104347298&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fles-fondements-de-la-programmation-tests-logiciels-et-assurance-qualite-qa%3Ftrk%3Dshare_ent_url%26shareId%3D0hY3R4bqTLKowTfmxzTIIw%253D%253D)
+Cette session de test à été realisée dans le cadre d'une formation LinkedIN Learning [Test logiciels et assurance qualité](https://www.linkedin.com/learning-login/share?account=104347298&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fles-fondements-de-la-programmation-tests-logiciels-et-assurance-qualite-qa%3Ftrk%3Dshare_ent_url%26shareId%3D0hY3R4bqTLKowTfmxzTIIw%253D%253D)
 
 # Déroulement de la session de test exploratoire 
 Participants : RAJON Kevin
